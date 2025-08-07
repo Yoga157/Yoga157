@@ -1,14 +1,17 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Muhamad Yoga Zikri Saputra**.
+Hi there! 👋
 
-Saya seorang **Mahasiswa** di UNIVERSITAS MUHAMMADIYAH MALANG.
+I'm Yoga, a Fullstack Developer with nearly 2 years of experience building enterprise solutions and internal tools.  
+Skilled in iDempiere ERP, React (TypeScript), .NET, and always eager to learn new technologies.
 
-Saya sedang melakukan pendidikan sejak 2019 jurusan Teknik Informatika.
+### Tech Stack
+- **Frontend:** Vue 3, React, TypeScript, Vite  
+- **Backend:** Java Spring Boot, ASP.NET Core  
+- **Database:** PostgreSQL  
 
-Saya menyukai RPL(Rekayasa Perangkat Lunak) dengan begitu mungkin akan banyak Project UI/UX, Backend, dan FrontEnd untuk perkembangan saya.
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhamad-yoga18/) ku ya.
+Let’s connect and collaborate!  
+[LinkedIn] (https://www.linkedin.com/in/muhamad-yoga18/).
 
 <p align="left">
 <a href="https://github.com/Yoga157">
