@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hi there! 👋
-
 I'm Yoga, a Fullstack Developer with nearly 2 years of experience building enterprise solutions and internal tools.  
 Skilled in iDempiere ERP, React (TypeScript), .NET, and always eager to learn new technologies.
 
