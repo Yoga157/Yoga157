@@ -6,7 +6,7 @@ I'm Yoga, a Fullstack Developer with nearly 2 years of experience building enter
 Skilled in iDempiere ERP, React (TypeScript), .NET, and always eager to learn new technologies.
 
 ### Tech Stack
-- **Frontend:** Vue 3, React, TypeScript, Vite  
+- **Frontend:** Vue 3, React, TypeScript, Vite, Next.js  
 - **Backend:** Java Spring Boot, ASP.NET Core  
 - **Database:** PostgreSQL  
 
